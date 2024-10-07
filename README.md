@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Azizbek, 4th grade student of International Islamic Academy of Uzbekistan. Currently working as Java backend developer, but my main interests are Machine Learning and Data science. Not married yet, but planning to get married in the next 20 years. I love Math, Movies and Science. That's all. 
 <!--
 **UdacianND/UdacianND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
